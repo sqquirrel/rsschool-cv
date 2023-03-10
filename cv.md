@@ -3,8 +3,8 @@
 * location: Novopolotsk, Belarus
 * tel. +375336136489
 * e-mail: wanton92@gmail.com
-* telegram: @wanton92
-* github: @sqquirrel
+* telegram: [@wanton92](https://t.me/wanton92)
+* github: [@sqquirrel](https://github.com/sqquirrel)
 ## Briefly about me:
  i've been working on a ceramic plant as a head of marketing department for seven years, but now i think i should try to make some changes in my life
 ## Skills:
