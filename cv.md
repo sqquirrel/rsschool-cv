@@ -1,4 +1,4 @@
-#BARTOSH ANTON
+# BARTOSH ANTON
 Contacts:
 location: Novopolotsk, Belarus
 tel. +375336136489
@@ -7,10 +7,10 @@ telegram: @wanton92
 github: @sqquirrel
 Briefly about me: i've been working on a ceramic plant as a head of marketing department for seven years, but now i think i should try to make some changes in my life
 Skills:
-*HTML
-*CSS
-*Javascript(basic)
-*Git
+* HTML
+* CSS
+* Javascript(basic)
+* Git
 Code example:
 function sum(a, b) {
   return a + b;
