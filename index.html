@@ -4,29 +4,53 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/rsschool-cv/rsschool-cv/style.css">
     <title>Document</title>
 </head>
 <body>
     <header>
-        <nav>
-            <li>About me</li>
-            <li>Skills</li>
-            <li>Examples</li>
-            <li>Education</li>
+        <nav class="navigation">
+            <ul class="nav-list">
+            <li class="nav"><a href="#aboutMe" class="nav-link">About Me</a></li>
+            <li class="nav"><a href="#skills" class="nav-link">Skills</a></li>
+            <li class="nav"><a href="#examples" class="nav-link">Examples</a></li>
+            <li class="nav"><a href="#education" class="nav-link">Education</a></li>
+            </ul>
         </nav>
     </header>
     <main>
-        <div class="photoAndName">
+        <section class="photoAndName">
             <h1>Bartosh Anton</h1>
+            <img src="/rsschool-cv/rsschool-cv/photo_kgs.jpg" alt="avatar" width="150px" height="200px">
             <p>Front-end student</p>
-        </div>
-    <div class="aboutMe">
+        </section>
+    <section id="aboutMe">
         <h2>About me</h2>
         There will be some text about my work and my will of changing it
-    </div>
+    </section>
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>html</li>
+            <li>css</li>
+        </ul>
+    </section>
+    <section id="examples">
+        <h2>Examples</h2>
+        <p>function sum(a, b) {</p>
+        <p>   return a + b;</p>
+        <p>}</p>
+        <p>let result = sum(1, 2);
+        <p>console.log(result);</p>
+    </section>
+    <section id="education">
+        <h2>Education</h2>
+        <p>Vitebsk State Tchnological University</p>
+    </section>
+
 
     </main>
-    <footer>
+    <footer class="footer">
         <div class="github">
            
             <a href="https://github.com/sqquirrel" target="_blank">
