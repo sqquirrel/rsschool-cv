@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth; 
+  }
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+  }
+.nav-list {
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-end;
+}
+.nav {
+    margin-right: 15px;
+}
+.photoAndName {
+    display: flex;
+}
+.aboutMe {
+    height: 1500px;
+}
+.skills {
+    height: 500px;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
